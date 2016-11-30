@@ -1,5 +1,5 @@
 # NBA Trivia
-[NBA Trivia Game Link](http://floating-wave-19457.herokuapp.com/)
+[NBA Trivia Game Link](http://glacial-lake-91453.herokuapp.com/)
 
 This app is a trivia game testing your NBA Basketball knowledge against a :24 second clock.
 
